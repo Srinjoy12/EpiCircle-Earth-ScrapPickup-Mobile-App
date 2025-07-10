@@ -2,6 +2,15 @@
 
 A comprehensive React Native application for scrap pickup management, featuring separate, fully dynamic interfaces for customers and partners. This app was built to demonstrate a complete, end-to-end workflow from request to completion.
 
+<img width="1206" height="2622" alt="Image" src="https://github.com/user-attachments/assets/a614c667-ef83-45c0-99f8-e76a0df8752b" />
+<img width="1206" height="2622" alt="Image" src="https://github.com/user-attachments/assets/53d4d657-9a01-41e3-9c35-10c80ff69a4c" />
+<img width="1206" height="2622" alt="Image" src="https://github.com/user-attachments/assets/9bfa8034-2dd1-4b45-a8e6-e90db6ad95e3" />
+<img width="1206" height="2622" alt="Image" src="https://github.com/user-attachments/assets/892f8eb7-1d8e-4db4-ad37-6bb389f43310" />
+<img width="1206" height="2622" alt="Image" src="https://github.com/user-attachments/assets/621057bb-65ee-4779-93ce-14660332eca3" />
+<img width="1206" height="2622" alt="Image" src="https://github.com/user-attachments/assets/d18f87ae-e92d-4325-a15b-2563c0f2c0a8" />
+<img width="1206" height="2622" alt="Image" src="https://github.com/user-attachments/assets/4f255acf-f8ab-40b6-b91c-ab8a3a963c73" />
+<img width="1206" height="2622" alt="Image" src="https://github.com/user-attachments/assets/d29056ba-4291-469d-a1e4-7b6a96cf53c7" />
+
 ## App Workflow
 
 The application supports a full, state-managed pickup lifecycle:
