@@ -2,7 +2,7 @@
 
 A comprehensive React Native application for scrap pickup management, featuring separate, fully dynamic interfaces for customers and partners. This app was built to demonstrate a complete, end-to-end workflow from request to completion.
 
-<img width="600" height="800" alt="Image" src="https://github.com/user-attachments/assets/a614c667-ef83-45c0-99f8-e76a0df8752b" />
+<img width="400" height="800" alt="Image" src="https://github.com/user-attachments/assets/a614c667-ef83-45c0-99f8-e76a0df8752b" />
 <img width="1206" height="2622" alt="Image" src="https://github.com/user-attachments/assets/53d4d657-9a01-41e3-9c35-10c80ff69a4c" />
 <img width="1206" height="2622" alt="Image" src="https://github.com/user-attachments/assets/9bfa8034-2dd1-4b45-a8e6-e90db6ad95e3" />
 <img width="1206" height="2622" alt="Image" src="https://github.com/user-attachments/assets/892f8eb7-1d8e-4db4-ad37-6bb389f43310" />
